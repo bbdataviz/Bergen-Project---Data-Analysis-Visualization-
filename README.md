@@ -10,6 +10,7 @@ condition “Hyperemesis gravidarum” (HG) from MoBA (Norwegian Mother, Father,
 - Story design
 - Realization of a web-based prototype using an individual human character, 
   data storytelling, illustration, and animations
+- Data Visualizations created with D3.js (JavaScript Library)
 
 “Extracting Factors for Emotional Engagement in the Communication of Hyperemesis Gravidarum” 
 (Spring Semester 2024, University of Bergen)
